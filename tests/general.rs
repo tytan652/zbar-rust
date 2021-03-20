@@ -8,5 +8,5 @@ fn version() {
 
     assert_eq!(0, result);
     assert_eq!(0, major);
-    assert!(minor >= 10 && minor <= 20);
+    assert!(minor >= 10 && minor <= 24);
 }
